@@ -76,7 +76,7 @@ pagination_dir: page
 theme: landscape
 
 # Deployment
-## Docs: https://hexo.io/docs/deployment.html
+## Docs: https://hexo.io/docs/deployment.html 
 deploy:
   type: git
   repo: https://epaypad@github.com/epaypad/epaypad.github.io
