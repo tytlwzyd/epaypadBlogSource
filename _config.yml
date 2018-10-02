@@ -79,6 +79,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/epaypad/epaypad.github.io
+  repo: https://epaypad@github.com/epaypad/epaypad.github.io
   branch: master
   message: https://github.com/epaypad/epaypadBlogSource 内容部署
