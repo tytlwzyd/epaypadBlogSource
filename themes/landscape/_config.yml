@@ -1,7 +1,15 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+    主页: /
+    #categories: /categories/ || th
+    资讯新闻: /archives
+    #schedule: /schedule/ || calendar
+    #sitemap: /sitemap.xml || sitemap
+    #commonweal: /404/ || heartbeat
+    #footprint: /footprint/ || rocket
+    规范&问答: /design
+    #tags: /tags/ || tags
+    关于我们: /about
 rss: /atom.xml
 
 # Content
@@ -35,3 +43,4 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+

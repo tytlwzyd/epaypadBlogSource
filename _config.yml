@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 电子缴费ETC移动发行系统
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: 电子缴费ETC移动发行系统项目部
+language: zh-CN
 timezone:
 
 # URL
@@ -43,14 +43,14 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 1
   order_by: -date
   
 # Category & Tag
