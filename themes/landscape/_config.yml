@@ -43,4 +43,7 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+# header
+banner_count: 1
+switch_banner: true
 
