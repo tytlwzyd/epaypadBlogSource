@@ -1,7 +1,7 @@
 ---
 title: APP更新操作办法
 date: 2018-10-15
-top: true
+top: false
 toc: true
 ---
 ## 一、开启更新

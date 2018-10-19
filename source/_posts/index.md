@@ -24,4 +24,4 @@ top: true
 
 # 视频预览
 腾讯视频在线查看：<a href="https://v.qq.com/x/page/v0747nb2da6.html" target="_blank">《ETC移动发行系统使用视频教程.mp4》</a>
-<iframe align="center" src="https://v.qq.com/txp/iframe/player.html?vid=v0747nb2da6" frameborder="0" width="400" height="300" allowfullscreen="true"></iframe>
+<div style="text-align: center;"><iframe align="center" src="https://v.qq.com/txp/iframe/player.html?vid=v0747nb2da6" frameborder="0" width="400" height="300" allowfullscreen="true"></iframe></div>
