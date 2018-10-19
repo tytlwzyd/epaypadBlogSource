@@ -1,7 +1,7 @@
 ---
 layout: _posts
-title: 用户卡办理
-date: 2018-10-17 10:22:41
+title: ETC移动发行系统：用户卡办理
+date: 2018-10-17
 top: false
 ---
 ### 主要流程

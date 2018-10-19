@@ -1,7 +1,7 @@
 ---
 layout: _posts
-title: 用户卡激活
-date: 2018-10-17 22:19:20
+title: ETC移动发行系统：用户卡激活
+date: 2018-10-12
 tags:
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: ETC办理神器移动发行终端上线
-date: 2018-10-18 11:35:38
-top: false
+title: ETC办理神器移动发行终端上线 
+date: 2018-10-20
+top: true
 ---
 ![image](/pub-images/news-images/etc_pub/ETC_1.png)
 &emsp;&emsp;7月17日上午，省高速公路管理局、中国农业银行甘肃省分行、贵阳货车帮科技公司联合在兰州市天奇物流园举行货车陇通卡及ETC移动发行终端上线启动仪式。由ETC移动发行终端发行的首张ETC陇通卡、农业银行发行的首张联名储值卡现场向用户发放。
